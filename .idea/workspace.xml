@@ -4,38 +4,6 @@
     <list default="true" id="b8e1e5fc-1978-4d3e-8fec-421fde86d53b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/createjs-1.0.0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/createjs-2015.11.26.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/createjs-2015.11.26.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/createjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/createjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/easeljs.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/easeljs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/preloadjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/preloadjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/soundjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/soundjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tweenjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/tweenjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.0.0/createjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.0.0/easeljs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.0.0/preloadjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.0.0/soundjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.0.0/tweenjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.x/createjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1.x/createjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/2015.11.26/createjs-2015.11.26.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2013.02.12.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2013.05.14.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2013.09.25.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2013.09.25.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2013.11.15.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2013.11.15.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2013.12.12.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2013.12.12.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2014.12.12.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2014.12.12.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2015.05.21.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2015.05.21.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2015.11.26.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2015.11.26.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -63,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="266">
+              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -73,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -194,9 +162,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="895" />
-    <option name="y" value="480" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="203" />
+    <option name="y" value="142" />
     <option name="width" value="1266" />
     <option name="height" value="773" />
   </component>
@@ -283,20 +251,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590651640621</updated>
-      <workItem from="1590651641858" duration="3029000" />
+      <workItem from="1590651641858" duration="3149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3029000" />
+    <option name="totallyTimeSpent" value="3149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="895" y="480" width="1266" height="773" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="npm" sideWeight="0.2389937" side_tool="true" visible="true" weight="0.38630807" />
+      <window_info id="npm" sideWeight="0.23684211" side_tool="true" visible="true" weight="0.24986821" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7610063" visible="true" weight="0.38630807" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7631579" visible="true" weight="0.24986821" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -304,7 +272,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17301415" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -390,6 +358,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -402,18 +373,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="266">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
