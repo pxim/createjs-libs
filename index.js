@@ -31,31 +31,31 @@
 //     'exports-loader?window.createjs!'
 // );
 
-require(
-    'imports-loader?this=>window!' +
-    './src/1.0.0/easeljs.min.js'
-);
-require(
-    'imports-loader?this=>window!' +
-    './src/1.0.0/tweenjs.min.js'
-);
-require(
-    'imports-loader?this=>window!' +
-    './src/1.0.0/soundjs.min.js'
-);
-
-require(
-    'imports-loader?this=>window!' +
-    './src/1.0.0/preloadjs.min.js'
-);
-
-require(
-    'imports-loader?this=>window!' +
-    './src/2015.11.26/createjs-2015.11.26.min.js'
-);
-
-// module.exports = window.createjs;
-module.exports = require(
-    'imports-loader?this=>window!' +
-    'exports-loader?window.createjs!'
-);
+// require(
+//     'imports-loader?this=>window!' +
+//     './src/1.0.0/easeljs.min.js'
+// );
+// require(
+//     'imports-loader?this=>window!' +
+//     './src/1.0.0/tweenjs.min.js'
+// );
+// require(
+//     'imports-loader?this=>window!' +
+//     './src/1.0.0/soundjs.min.js'
+// );
+//
+// require(
+//     'imports-loader?this=>window!' +
+//     './src/1.0.0/preloadjs.min.js'
+// );
+//
+// require(
+//     'imports-loader?this=>window!' +
+//     './src/2015.11.26/createjs-2015.11.26.min.js'
+// );
+//
+// // module.exports = window.createjs;
+// module.exports = require(
+//     'imports-loader?this=>window!' +
+//     'exports-loader?window.createjs!'
+// );

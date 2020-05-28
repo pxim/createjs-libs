@@ -15,15 +15,13 @@ module.exports = {
         // "tween": ['./src/tween.js'],
         // "sound": ['./src/sound.js'],
         // "preload": ['./src/preload.js']
-        "createjs-1.0.0": ['./src/1.0.0/createjs.min.js'],
-        "easeljs": ['./src/1.0.0/easeljs.min.js'],
-        "tweenjs": ['./src/1.0.0/tweenjs.min.js'],
-        "soundjs": ['./src/1.0.0/soundjs.min.js'],
-        "preloadjs": ['./src/1.0.0/preloadjs.min.js'],
+        "createjs": ['./src/createjs'],
+        "easeljs": ['./src/easeljs'],
+        "tweenjs": ['./src/tweenjs'],
+        "soundjs": ['./src/soundjs'],
+        "preloadjs": ['./src/preloadjs'],
 
-        "createjs-2015.11.26": ['./src/2015.11.26/createjs-2015.11.26.min.js'],
-
-        "createjs": ['./index.js']
+        "createjs-2015.11.26": ['./src/createjs-2015.11.26'],
     },
     output: {
         path: path.resolve(__dirname, "build/"),

@@ -1,8 +1,8 @@
 {
   "name": "createjs-libs",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": " A createjs package that can be NPM installed",
-  "main": "build/createjs-last.js",
+  "main": "build/createjs.js",
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,6 +14,11 @@
     "tweenjs",
     "soundjs",
     "preloadjs",
+    "create",
+    "easel",
+    "tween",
+    "sound",
+    "preload",
     "canvas",
     "animation",
     "html5",
