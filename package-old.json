@@ -1,0 +1,33 @@
+{
+  "name": "@px/createjs",
+  "version": "1.0.0",
+  "description": " A createjs package that can be NPM installed",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "createjs",
+    "easeljs",
+    "tweenjs",
+    "soundjs",
+    "preloadjs",
+    "canvas",
+    "animation",
+    "html5",
+    "h5",
+    "javascript"
+  ],
+  "author": "PengXiang",
+  "license": "ISC",
+  "devDependencies": {
+    "exports-loader": "^0.6.4",
+    "imports-loader": "^0.7.1",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "createjs": "^1.0.1",
+    "path": "^0.12.7"
+  }
+}

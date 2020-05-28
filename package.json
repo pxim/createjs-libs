@@ -1,0 +1,41 @@
+{
+  "name": "createjs-libs",
+  "version": "1.0.3",
+  "description": " A createjs package that can be NPM installed",
+  "main": "build/createjs-last.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "createjs",
+    "easeljs",
+    "tweenjs",
+    "soundjs",
+    "preloadjs",
+    "canvas",
+    "animation",
+    "html5",
+    "h5",
+    "javascript"
+  ],
+  "author": "PengXiang",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxim/createjs-libs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pxim/createjs-libs/issues"
+  },
+  "homepage": "https://github.com/pxim/createjs-libs",
+  "devDependencies": {
+    "exports-loader": "^0.6.4",
+    "imports-loader": "^0.7.1",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "createjs": "^1.0.1",
+    "path": "^0.12.7"
+  }
+}
