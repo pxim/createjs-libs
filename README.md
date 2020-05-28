@@ -8,17 +8,17 @@ npm i createjs-libs
  
 引入后和官方 createjs 使用无任何区别
 ####  引入全部模块
-import createjs from 'createjs-npm';
+import createjs from 'createjs-libs';
  
 ####  只引入 easeljs
-import createjs from 'createjs-npm/lib/easel';
+import createjs from 'createjs-libs/build/easeljs';
  
 ####  只引入 preload
-import createjs from 'createjs-npm/lib/preload';
+import createjs from 'createjs-libs/build/preloadjs';
  
 #### 只引入 tween
-import createjs from 'createjs-npm/lib/tween';
+import createjs from 'createjs-libs/build/tweenjs';
  
 #### 只引入 sound
-import createjs from 'createjs-npm/lib/sound';
+import createjs from 'createjs-libs/build/soundjs';
 
